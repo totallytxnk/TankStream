@@ -201,8 +201,3 @@ Open issues for feature requests (multi-viewer, TURN support, audio prioritizati
 - [libdatachannel](https://github.com/paullouisageneau/libdatachannel) by Paul-Louis Ageneau
 - FFmpeg project
 - WebRTC community
-
----
-
-**TankStream** – Local media, global speed.  
-Built for makers who care about every millisecond.
