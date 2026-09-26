@@ -1,0 +1,14 @@
+# Target labels
+ libdatachannel-populate
+# Source files and their labels
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate-complete.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-build.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-configure.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-download.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-install.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-mkdir.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-patch.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-test.rule
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libdatachannel-populate"
+		],
+		"name" : "libdatachannel-populate"
+	}
+}

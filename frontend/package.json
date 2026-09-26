@@ -1,0 +1,23 @@
+{
+  "name": "tankstream-client",
+  "version": "0.1.0",
+  "description": "Low-latency WebRTC receiver client for TankStream",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node --esm tankstream-client.ts",
+    "build": "tsc --outDir dist"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.11.0"
+  },
+  "keywords": [
+    "webrtc",
+    "low-latency",
+    "tankstream",
+    "h264"
+  ],
+  "license": "MIT"
+}

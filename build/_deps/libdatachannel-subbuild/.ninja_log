@@ -1,0 +1,21 @@
+# ninja log v7
+2	52	8120767637250018	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-mkdir	84406b3fbf589560
+2	52	8120767637250018	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-mkdir	84406b3fbf589560
+53	2273303	8120790369747983	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-download	577468f0f6359c63
+53	2273303	8120790369747983	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-download	577468f0f6359c63
+2273304	2273438	8120790369788986	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-update	f54ba161c4affdac
+2273304	2273438	8120790369788986	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-update	f54ba161c4affdac
+2273438	2273489	8120790371606376	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-patch	858d224bfe55232f
+2273438	2273489	8120790371606376	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-patch	858d224bfe55232f
+2273490	2273542	8120790372132045	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-configure	40a277609512bf29
+2273490	2273542	8120790372132045	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-configure	40a277609512bf29
+2273542	2273593	8120790372646560	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-build	60d77256aaccb270
+2273542	2273593	8120790372646560	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-build	60d77256aaccb270
+2273593	2273643	8120790373152168	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-install	37205078c1d703f9
+2273593	2273643	8120790373152168	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-install	37205078c1d703f9
+2273643	2273694	8120790373652639	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-test	e82eade5dd469760
+2273643	2273694	8120790373652639	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-test	e82eade5dd469760
+2273694	2273761	8120790374330772	CMakeFiles/libdatachannel-populate-complete	e7722b14256b86aa
+2273694	2273761	8120790374330772	libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-done	e7722b14256b86aa
+2273694	2273761	8120790374330772	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate-complete	e7722b14256b86aa
+2273694	2273761	8120790374330772	C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/libdatachannel-populate-prefix/src/libdatachannel-populate-stamp/libdatachannel-populate-done	e7722b14256b86aa

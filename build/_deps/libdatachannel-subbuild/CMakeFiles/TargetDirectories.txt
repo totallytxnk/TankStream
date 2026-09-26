@@ -1,0 +1,3 @@
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/libdatachannel-populate.dir
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-subbuild/CMakeFiles/rebuild_cache.dir

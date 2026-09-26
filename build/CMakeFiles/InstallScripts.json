@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/PC/Downloads/tankstream(1)/tankstream/build/cmake_install.cmake",
+		"C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-build/cmake_install.cmake",
+		"C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-build/deps/plog/cmake_install.cmake",
+		"C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-build/deps/usrsctp/cmake_install.cmake",
+		"C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-build/deps/usrsctp/usrsctplib/cmake_install.cmake",
+		"C:/Users/PC/Downloads/tankstream(1)/tankstream/build/_deps/libdatachannel-build/deps/libjuice/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
