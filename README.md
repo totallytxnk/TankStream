@@ -179,7 +179,7 @@ Input frames are expected in NV12 or YUV420P. The encoder converts if necessary 
 
 ## License
 
-MIT License – see LICENSE file (add one when publishing).
+MIT License – see [LICENSE](./LICENSE) file for details.
 
 ---
 
